@@ -1,1 +1,1 @@
-# three_sort
+# Shell sort, Insertion sort
